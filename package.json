@@ -19,5 +19,8 @@
     "float64array"
   ],
   "author": "Evan Hahn <http://evanhahn.com> (me@evanhahn.com)",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.0.1"
+  }
 }
