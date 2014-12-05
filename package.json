@@ -1,0 +1,23 @@
+{
+  "name": "choose-a-typedarray",
+  "version": "0.1.0",
+  "description": "choose the right typedarray for you",
+  "main": "chooseatypedarray.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "typedarray",
+    "int8array",
+    "uint8array",
+    "uint8clampedarray",
+    "int16array",
+    "uint16array",
+    "int32array",
+    "uint32array",
+    "float32array",
+    "float64array"
+  ],
+  "author": "Evan Hahn <http://evanhahn.com> (me@evanhahn.com)",
+  "license": "MIT"
+}
